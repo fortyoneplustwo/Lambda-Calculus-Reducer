@@ -18,7 +18,7 @@ Reduce the leftmost, innermost η-reducible expression.
 
 # Motivation
 To really understand how Lambda Calculus works, why not implement it using a purely object-oriented language?\
-*Note: this was for a school assignment.*
+*Note: This was a school assignment.*
 
 # Demonstration
 ```
