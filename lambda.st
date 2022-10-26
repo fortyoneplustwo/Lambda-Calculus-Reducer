@@ -1,3 +1,6 @@
+"This code was written and provided by the professor who created this assignment"
+"See a2.st for my implementation of the features"
+
 Object subclass: LambdaExp [
     isVariable [ ^false ]
     isAbstraction [ ^false ]
