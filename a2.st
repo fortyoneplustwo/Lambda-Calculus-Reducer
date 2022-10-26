@@ -1,3 +1,5 @@
+"My implementation of the features listed in the readme"
+
 Object subclass: Lambda [ 
 	| lambdaExp |
 
