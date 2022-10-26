@@ -16,6 +16,10 @@ order evaluation. Like `aoe` and `aoe:`, they may mutate the expression, or crea
 The `eta` and `eta:` methods behave like `aoe` and `aoe:` or `nor` and `nor:`, but using η-reduction instead of β-reduction.
 Reduce the leftmost, innermost η-reducible expression.
 
+# Motivation
+To really understand how Lambda Calculus works, why not implement it using a purely object-oriented language?\
+*Note: this was for a school assignment.*
+
 # Demonstration
 ```
 st> | x s l |
