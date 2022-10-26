@@ -5,11 +5,11 @@ A lambda calculus reducer in GNU Smalltalk.
 * **de Bruijn notation**\
 The `toDeBruijn` method converts a non-de-Bruijn-indexed expression to a de-Bruijn-indexed one, and both
 returns the de-Bruijn-indexed expression and sets the internal expression to it.
-* **AOE**\
+* **Applicative Order Evaluation**\
 The `aoe` method performs a single reduction step using applicative order evaluation on the expression, and
 returns the reduced version. It should also update the internal expression, so that if `aoe` is called repeatedly,
 multiple steps of reduction are taken.
-* **Normal order reduction**\
+* **Normal Order Reduction**\
 The `nor` and `nor:` methods behave like `aoe` and `aoe:`, but using normal order reduction instead of applicative
 order evaluation. Like `aoe` and `aoe:`, they may mutate the expression, or create a new one.
 * **η-reduction**\
