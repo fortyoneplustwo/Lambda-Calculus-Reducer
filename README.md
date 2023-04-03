@@ -50,4 +50,4 @@ st> x toDeBruijn.
 (\.((\.(\.(2 (2 1)))) ((\.(\.(2 (2 1)))) 1)))
 ```
 # Credits
-Documentation (features and demonstration above) and lambda.st taken written by Prof. Gregor Richards for CS442.
+Documentation (features and demonstration above) and lambda.st written by Prof. Gregor Richards for CS442.
