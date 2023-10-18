@@ -17,7 +17,8 @@ The `eta` and `eta:` methods behave like `aoe` and `aoe:` or `nor` and `nor:`, b
 Reduce the leftmost, innermost η-reducible expression.
 
 # Motivation
-To really understand how Lambda Calculus works, why not implement it using a purely object-oriented language?\
+
+Assignment from a university computer science class. What better way to really understand Lambda Calculus than to implement it in an object-oriented imperative language?
 
 # Demonstration
 ```
